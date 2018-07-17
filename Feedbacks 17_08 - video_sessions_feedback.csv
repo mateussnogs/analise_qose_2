@@ -1,0 +1,290 @@
+id,num_sessao,num_video_preferido,justificativa,created_date,published_date,incomodo,interesse1,interesse2,comment,email,english,session_id,versao
+5,1,2,"Apesar das interrupções, o vídeo 1 desagradou muito o meu gosto.",2018-01-20 21:46:32,2018-01-20 21:46:32,7,0,8,,,0,,1
+6,2,1,"Apesar das interrupções, o vídeo foi muito mais engraçado",2018-01-20 21:47:55,2018-01-20 21:47:55,5,10,4,,,0,,1
+7,3,2,"As interrupções no segundo vídeo não incomodaram muito, logo preferi o trailer que era muito mais legal",2018-01-20 21:50:00,2018-01-20 21:50:00,4,3,8,,,0,,1
+8,4,2,Gostei muito do primeiro vídeo e fiquei tão incomodado com as interrupções que preferi vídeo com boa qualidade de peixes,2018-01-20 21:52:08,2018-01-20 21:52:08,8,9,5,,,0,,1
+9,5,2,"A parte com qualidade ruim do primeiro comprometeu o vídeo, portanto preferi o que tem o conteúdo que me interessa menos.",2018-01-20 21:54:05,2018-01-20 21:54:05,7,8,5,,,0,,1
+10,6,1,Porque nao tinha interrupção,2018-01-20 21:55:37,2018-01-20 21:55:37,8,2,2,,,0,,1
+11,7,1,"O segundo era muito monótono, ainda mais comparado com o primeiro.",2018-01-20 21:57:30,2018-01-20 21:57:30,8,9,2,,,0,,1
+12,1,2,"é melhor ver um vídeo do Brasil ganhando, mesmo que em baixa qualidade, do que o Brasil perdendo",2018-02-23 18:00:12,2018-02-23 18:00:12,8,1,9,,,0,,1
+13,2,1,o vídeo 1 é mais divertido,2018-02-23 18:05:15,2018-02-23 18:05:15,2,3,1,,,0,,1
+14,3,1,o primeiro tinha uma história uma completa,2018-02-23 18:07:23,2018-02-23 18:07:23,8,2,1,,,0,,1
+15,4,2,"o segundo me acalmou, e o primeiro me deixo irritado",2018-02-23 18:09:37,2018-02-23 18:09:37,4,4,2,,,0,,1
+16,5,1,é mais animado,2018-02-23 18:12:21,2018-02-23 18:12:21,2,1,2,,,0,,1
+17,6,1,melhor conteúdo e qualidade,2018-02-23 18:14:03,2018-02-23 18:14:03,5,6,2,,,0,,1
+18,7,1,"achei mais interessante ouvir sobre buracos negros, mesmo com interrupções",2018-02-23 18:15:54,2018-02-23 18:15:54,3,4,3,,,0,,1
+21,1,2,sempre melhor ver o Brasil ganhar,2018-02-27 14:21:00,2018-02-27 14:21:00,2,3,7,achei interessante essa comparação que vocês estão fazendo entre QoE e conteúdo,sadoc@dcc.ufrj.br,0,,1
+25,1,1,"Sem interrupções, as pausas eram muito longas e a qualidade parecia ser inferior.",2018-03-05 22:28:12,2018-03-05 22:28:12,8,9,2,"Poderia ser exatamente o mesmo vídeo para ter menos bias, não?",hugodovs@hotmail.com,0,,1
+26,2,2,"Porque parafernalha é muito melhor.
+
+Brincadeira, as interrupções são bem problemáticas",2018-03-05 22:30:10,2018-03-05 22:30:10,9,3,8,---,hugodovs@hotmail.com,0,,1
+27,3,1,Assistir um trailer com interrupção é muito ruim,2018-03-05 22:32:18,2018-03-05 22:32:18,10,8,4,---,hugodovs@hotmail.com,0,,1
+28,1,1,Porque não teve interrupções.,2018-03-05 23:00:43,2018-03-05 23:00:43,10,5,5,Detestei o vídeo 2,mattgouvea@gmail.com,0,,1
+29,2,1,"Pelo meu senso de humor, esse vídeo foi mais engraçado.",2018-03-05 23:04:09,2018-03-05 23:04:09,1,1,1,As interrupções não me incomodaram tanto pois estava me divertindo com o vídeo.,mattgouvea@gmail.com,0,,1
+30,3,1,Porque não teve interrupções e era mais engraçado.,2018-03-05 23:09:58,2018-03-05 23:09:58,10,1,6,Meu senso de humor falou mais alto e eu não estava particularmente interessado no vídeo 2.,mattgouvea@gmail.com,0,,1
+31,4,1,Porque foi uma cena inusitada que me surpreendeu,2018-03-05 23:16:04,2018-03-05 23:16:04,1,1,1,Não me interesso pelo tópico de nenhum dos vídeos mas mesmo assim são interessantes. O vídeo 2 não mostrou nada de especial.,mattgouvea@gmail.com,0,,1
+32,5,2,Achei legal assistir um vídeo de uma pessoa boa no esporte que pratica.,2018-03-05 23:27:33,2018-03-05 23:27:33,9,1,1,"Comecei a reparar que vídeos aleatórios não me despertam nenhum interesse, ao contrário de vídeos sobre assuntos que quero assistir de verdade.",mattgouvea@gmail.com,0,,1
+33,6,1,Porque me deu informações mais relevantes,2018-03-05 23:32:57,2018-03-05 23:32:57,10,5,5,"Teve uma interrupção no vídeo, num momento crucial, que me deixou bastante frustrado.",mattgouvea@gmail.com,0,,1
+34,7,1,Porque teve uma comunicação visual melhor.,2018-03-05 23:35:51,2018-03-05 23:35:51,3,8,9,Os dois tópicos me interessam mas o primeiro vídeo teve melhor apresentação.,mattgouvea@gmail.com,0,,1
+35,1,2,Narração em pt-br. Facilitou entender o que estava acontecendo.,2018-03-06 0:30:25,2018-03-06 0:30:25,4,2,3,As interrupções não atrapalharam muito não,pedrovitor.marques@gmail.com,0,,1
+36,2,1,Gostei da piada,2018-03-06 0:32:39,2018-03-06 0:32:39,2,7,3,Segundo vídeo foi monotono,pedrovitor.marques@gmail.com,0,,1
+37,3,1,Achei criativo,2018-03-06 0:35:01,2018-03-06 0:35:01,3,4,3,Quando o trailer parecia que ia ficar legal...,pedrovitor.marques@gmail.com,0,,1
+38,1,1,Porque eu acho o 7 a 1 muito engraçado e adorei a dancinha da vitória do técnico da Alemanha.,2018-03-06 0:35:01,2018-03-06 0:35:01,5,3,3,"O efeito da interrupção estilo ""buffering"" do YouTube pareceu muito falso, não sei qual o intuito do experimento, mas acho que isso contribuiu para um engajamento pior com o segundo vídeo",tomazcuber@dcc.ufrj.br,0,,1
+39,4,1,Ri muito,2018-03-06 0:37:33,2018-03-06 0:37:33,4,9,3,Acho que to entendendo o teste agora,pedrovitor.marques@gmail.com,0,,1
+40,5,2,Incrível. Como o cara faz aquilo??,2018-03-06 0:39:45,2018-03-06 0:39:45,5,2,8,Nada de mais,pedrovitor.marques@gmail.com,0,,1
+41,2,2,"Por que já havia assistido o primeiro diversas vezes e me amarrei nos garotinhos jogando guilty gear, embora criança não saiba atuar.",2018-03-06 0:40:51,2018-03-06 0:40:51,6,5,7,Nesse caso achei que as interrupções afetaram mais o aproveitamento do vídeo pois cortaram o tempo das piadas.,tomazcuber@dcc.ufrj.br,0,,1
+42,6,2,Nunca tinha visto uma cena daquela,2018-03-06 0:43:01,2018-03-06 0:43:01,6,5,6,"O fato dos animais do 2º video ficarem pequenos na tela, quando perdeu a qualidade me incomodou.",pedrovitor.marques@gmail.com,0,,1
+43,3,1,Tava bonito de ver.,2018-03-06 0:45:33,2018-03-06 0:45:33,4,4,3,Piratas do Caribe é ruim,tomazcuber@dcc.ufrj.br,0,,1
+44,7,1,"Tirando aquele sensacionalismo, eu acho buracos negros fascinantes.",2018-03-06 0:45:33,2018-03-06 0:45:33,4,8,4,Lembrei do Ensino Médio. Isso não é algo bom.,pedrovitor.marques@gmail.com,0,,1
+45,1,1,Esse jogo é anedótico.,2018-03-06 23:00:03,2018-03-06 23:00:03,9,9,9,As interrupções são de fato muito incômodas.,artur.ziviani@gmail.com,0,,1
+46,2,2,Fiquei curioso sobre a sequencia de eventos,2018-03-06 23:02:24,2018-03-06 23:02:24,9,7,9,"novamente, as interrupcões são muito incômodas",artur.ziviani@gmail.com,0,,1
+47,3,2,"Simplesmente fiquei mais interessado pelo trailer (em comparação com a propaganda), apesar da interrupção",2018-03-06 23:05:46,2018-03-06 23:05:46,9,6,9,Tenho a impressão que a interrupção incomodou-me mais no trailer do que incomodaria se ocorresse na propaganda,artur.ziviani@gmail.com,0,,1
+48,4,1,"Os acontecimentos atraíram mais minha atenção do que no segundo vídeo, que era mais monótono",2018-03-06 23:08:31,2018-03-06 23:08:31,10,9,5,"Novamente, tive a impressão que as interrupções incomodaram-me mais no 1o vídeo do que se ocorressem no segundo vídeo",artur.ziviani@gmail.com,0,,1
+49,5,1,As paisagens eram muito atraentes visualmente,2018-03-06 23:11:08,2018-03-06 23:11:08,10,8,4,As interrupções foram muito incômodas no video com paisagens atraentes e movimentação intensa,artur.ziviani@gmail.com,0,,1
+50,6,1,"Na verdade, preferi o primeiro só pelo fato de não ter interrupções. Ambos os videos prenderam minha atenção.",2018-03-06 23:14:24,2018-03-06 23:14:24,7,8,8,"Ambos os vídeos prenderam minha atenção. As interrupções aqui me incomodaram menos, pois me pareceu que elas marcaram mudanças de cena (ou angulos da mesma cena) no video 2",artur.ziviani@gmail.com,0,,1
+51,7,1,O video sobre buracos negros é incomparavelmente mais atraente visualmente.,2018-03-06 23:17:11,2018-03-06 23:17:11,9,8,5,"A maneira de apresentar o conteúdo, com muito mais apelo visual, do video 1 é determinante para torná-lo bem mais atraente, apesar das interrupções",artur.ziviani@gmail.com,0,,1
+52,1,2,"Pois apesar das interrupções o vídeo 2 começou mais rápido que o vídeo 1. 
+No vídeo 1 inclusive, cheguei a pensar que havia algum problema com meu navegador.",2018-03-07 2:00:56,2018-03-07 2:00:56,4,2,2,"Os vídeos não são muito apelativos para meu gosto pessoal, mas foram ótimas escolhas para a sessão. 
+O curioso é que apenas percebi que o segundo vídeo tinha qualidade inferior quando esta informação foi citada na primeira questão do feedback.",raulgbrmf@gmail.com,0,,1
+53,2,2,"Pela temática e pela ausência de interrupções.
+Em vídeos de comédia, que nesse caso possuem um apelo maior para mim, percebi que a interrupção acaba por estragar boa parte da piada.",2018-03-07 2:06:49,2018-03-07 2:06:49,8,10,10,"Ótima escolha comparativa, assim como a sessão 1.
+Agora estou me questionando sobre a primeira pergunta do feedback. O vídeo de pior qualidade, vocês estão classificando como pior qualidade o vídeo que possui interrupções, ou há alguma questão de resolução de vídeo envolvida?",raulgbrmf@gmail.com,0,,1
+54,3,1,"Pois achei a propaganda mais envolvente que o trailer. 
+A interrupção do trailer não afetou minha escolha, tenho certeza que escolheria o vídeo 1 mesmo que ele tivesse a mesma quantidade de escolhas que o vídeo 2.",2018-03-07 2:12:15,2018-03-07 2:12:15,0,8,8,Gostei das comparações até aqui. Entretanto em todos os vídeos achei a resolução deles muito boa e as interrupções bem tranquilas. Geralmente quando temos interrupções de vídeo isso acarreta em uma perda de resolução quando o vídeo volta a rodar. Seria interessante fazer um comparativo entre vídeo de baixa resolução versus vídeos com interrupção. ( caso isso já não seja um experimento a seguir ),raulgbrmf@gmail.com,0,,1
+55,4,1,"Foi uma escolha difícil. Foi entre escolher um vídeo pela graça e o outro pela beleza. Desta vez ficarei com a graça, mesmo com as interrupções.",2018-03-07 2:15:38,2018-03-07 2:15:38,4,10,10,"Ótimas escolhas novamente, sem mais para acrescentar por enquanto.",raulgbrmf@gmail.com,0,,1
+56,5,2,"Por nenhuma razão em especial, o primeiro vídeo eu já havia visto anteriormente e acho acrobacias na corda bamba bem interessantes.",2018-03-07 2:18:57,2018-03-07 2:18:57,0,10,10,"No início do primeiro vídeo eu achei que sua resolução estava baixa e isso me incomodou. Após a primeira interrupção o vídeo voltou com uma resolução boa e seguiu assim até o final, mesmo após a segunda interrupção. Com isso o vídeo se tornou mais agradável com as interrupções do que com a baixa resolução inicial, em minha opinião.",raulgbrmf@gmail.com,0,,1
+57,6,1,Pois o segundo vídeo teve quedas de resolução que me causaram incômodo.,2018-03-07 2:21:42,2018-03-07 2:21:42,0,10,10,Este exemplo achei o mais real. Uma perda de resolução após uma interrupção pode ser um grande incomodo para quem está assistindo uma cena interessante.,raulgbrmf@gmail.com,0,,1
+58,7,1,Pois o vídeo estava bem mais emocionante que o vídeo 2.,2018-03-07 2:24:45,2018-03-07 2:24:45,4,9,8,"As sessões foram bem interessantes, com destaque para a sessão das formigas X onça pintada, por conta da queda da resolução perceptível após a interrupção.",raulgbrmf@gmail.com,0,,1
+59,1,2,Porque o Brasil ganhou,2018-03-11 14:02:44,2018-03-11 14:02:44,6,7,6,Vídeos legais porque gosto de ver gols no futebol,diogo.mvieira@gmail.com,0,,1
+60,2,1,Porque gosto mais de porta dos fundos,2018-03-11 14:05:38,2018-03-11 14:05:38,7,9,8,"Gosto de vídeos desses canais, mas tiveram muito loading",diogo.mvieira@gmail.com,0,,1
+61,3,2,Porque mostrou conteúdo útil sobre um filme que tenho mais interesse,2018-03-11 14:09:17,2018-03-11 14:09:17,7,1,7,"Foram publicidades meio diferentes, mas a segunda tinha um conteúdo mais interessante",diogo.mvieira@gmail.com,0,,1
+62,4,1,Porque gosto de pandas,2018-03-11 14:12:33,2018-03-11 14:12:33,6,7,5,Os vídeos foram muito parados e o loading deixou mais chato,diogo.mvieira@gmail.com,0,,1
+63,5,2,Porque não teve interrupções,2018-03-11 14:35:23,2018-03-11 14:35:23,9,8,8,Boas sessões de esportes radicais,diogo.mvieira@gmail.com,0,,1
+64,6,1,Porque não teve interrupções,2018-03-11 14:39:34,2018-03-11 14:39:34,8,6,6,Vídeos legais sobre o mundo animal,diogo.mvieira@gmail.com,0,,1
+65,7,1,"Porque o tema é bem mais legal, mas as interrupções me irritaram",2018-03-11 14:41:51,2018-03-11 14:41:51,9,10,7,Sessão de física,diogo.mvieira@gmail.com,0,,1
+72,2,1,porque era melhor do que o segundo.,2018-03-18 23:27:19,2018-03-18 23:27:19,3,2,2,As falhas de qualidade foram muito perceptíveis.,sergiopnog@gmail.com,0,,2
+73,4,1,porque o segundo não despertou minha curiosidade.,2018-03-18 23:34:01,2018-03-18 23:34:01,3,4,4,As falhas de qualidade foram muito perceptíveis.,sergiopnog@gmail.com,0,,2
+74,1,1,porque não teve interrupção nenhuma.,2018-03-18 23:37:37,2018-03-18 23:37:37,4,4,4,As falhas de qualidade foram muito perceptíveis,sergiopnog@gmail.com,0,,2
+76,7,1,Porque eu gosto de astronomia e não tenho interesse em revisar o conteúdo de física I no momento.,2018-04-05 21:49:10,2018-04-05 21:49:10,2,5,1,"Pelo fato do vídeo ser curto, o número de interrupções (duas) chega a não ser muito incômodo. No  entanto, se eu tivesse que assistir um vídeo mais longo (>2min) com essa qualidade eu provavelmente desistiria.",felipe.link1996@poli.ufrj.br,0,,2
+77,3,1,"Apesar de não consumir bebida alcoólica, o comercial é razoavelmente engraçado.",2018-04-05 21:55:56,2018-04-05 21:55:56,4,1,1,"Embora eu normalmente tenha tolerância com atrasos nos vídeos, pelo fato do vídeo 2 ser um trailer de um filme que eu desconheço é difícil manter a atenção quando há interrupções pois não há um grande interesse .
+O vídeo 1 apesar de não ser algo de meu interesse é exibido de forma contínua e razoavelmente engraçado.",felipe.link1996@poli.ufrj.br,0,,2
+78,2,1,Embora eu goste de conteúdo humorístico em geral o vídeo 1 foi simplesmente mais engraçado. Por ser mais engraçado foi uma experiência mais agradável apesar das falhas.,2018-04-05 22:01:33,2018-04-05 22:01:33,2,5,5,As falhas são incômodas mas neste tipo de humor o interesse em saber o que vai acontecer depois manteve minha atenção.,felipe.link1996@poli.ufrj.br,0,,2
+79,7,1,Pelo meu interesse,2018-06-01 14:04:09,2018-06-01 14:04:09,4,5,3,"As falhas foram perceptíveis.
+Tempo de vídeo curto.",alexandre.tavares@ice.ufjf.br,0,,2
+80,4,1,Pelo meu interesse,2018-06-01 14:06:26,2018-06-01 14:06:26,3,3,2,As falhas foram perceptíveis,alexandre.tavares@ice.ufjf.br,0,,2
+81,2,1,Mais engraçado,2018-06-01 14:08:22,2018-06-01 14:08:22,4,3,3,As falhas foram perceptíveis,alexandre.tavares@ice.ufjf.br,0,,2
+82,6,2,O segundo vídeo traz uma situação de suspense a qual fiquei curioso por saber o desfecho.,2018-06-01 14:18:44,2018-06-01 14:18:44,5,3,5,"Sim, as falhas foram perceptíveis. O tempo dos vídeos pareceu-me adequado para julgar. E, sim, houve entretenimento, mesmo em vídeos tão curtos.",ziviani@lncc.br,0,,2
+83,3,2,Há uma história que motiva querer saber mais ou o que está por vir.,2018-06-01 14:21:21,2018-06-01 14:21:21,4,1,4,"Sim, falhas foram perceptíveis e o tempo foi adequado para julgar.",ziviani@lncc.br,0,,2
+84,5,1,A ação e as paisagens em quadro aberto eram mais atrativas,2018-06-01 14:23:11,2018-06-01 14:23:11,4,4,2,,ziviani@lncc.br,0,,2
+85,4,1,Mais engraçado.,2018-06-01 14:50:30,2018-06-01 14:50:30,4,3,3,Foram um pouco. Pouco entretenimento.,mario@dcc.ufrj.br,0,,2
+86,6,2,Mais divertido.,2018-06-01 14:53:06,2018-06-01 14:53:06,3,5,5,Sim. Sim houve entretenimento.,mario@dcc.ufrj.br,0,,2
+87,1,1,Qualidade do vídeo.,2018-06-01 14:53:43,2018-06-01 14:53:43,4,0,0,"As interrupções, assim como a baixa qualidade do vídeo são bem perceptíveis.",klaus@lncc.br,0,,2
+88,7,1,Interessante.,2018-06-01 14:55:16,2018-06-01 14:55:16,3,5,2,"Sim. No primeiro sim, no segundo não.",mario@dcc.ufrj.br,0,,2
+89,6,1,Qualidade geral do vídeo.,2018-06-01 14:58:32,2018-06-01 14:58:32,4,3,1,"As interrupções bem como a degradação de qualidade foram bem perceptíveis.
+Houve pouco entretenimento.",klaus@lncc.br,0,,2
+90,5,1,Pelas imagens apresentadas no vídeo.,2018-06-01 15:03:10,2018-06-01 15:03:10,4,3,2,"A interrupções no primeiro vídeo foram bem perceptíveis, assim como a baixa qualidade na parte inicial do vídeo.",klaus@lncc.br,0,,2
+91,5,1,Mais emocionantes,2018-06-01 17:01:55,2018-06-01 17:01:55,5,4,1,"Sim, foram paradas muito perceptíveis. 
+O tempo não foi curto, aliás quanto menor o vídeo pior a parada.
+Houve entretenimento.",gxexeo@gmail.com,0,,2
+92,6,2,"Fiquei impressionado com a onça caçando o jacaré, nunca tinha visto. O primeiro é comum, vejo até em praças",2018-06-01 17:04:22,2018-06-01 17:04:22,5,3,4,"A falha estava justamente no bote. Tempo bom, Houve entretenimento.",gxexeo@gmail.com,0,,2
+93,7,1,Lei de Newton é muito básico,2018-06-01 17:06:08,2018-06-01 17:06:08,5,3,0,,gxexeo@gmail.com,0,,2
+94,7,1,"Imagens, efeitos, e sons chamam mais a atenção do que slides.",2018-06-01 17:13:37,2018-06-01 17:13:37,3,4,4,"Houve entretenimento, mas as falhas atrapalharam um pouco. Seria mais divertido e agradável sem elas.",matwario@gmail.com,0,,2
+95,4,2,Achei relaxante.,2018-06-01 17:15:46,2018-06-01 17:15:46,3,3,3,Houve entretenimento.,matwario@gmail.com,0,,2
+96,3,2,É um trailer de um filme divertido e interessante.,2018-06-01 17:18:59,2018-06-01 17:18:59,4,0,4,As falhas nesse caso atrapalham bastante a imersão no conteúdo / universo do trailer. Elas fazem que lembremos que estamos vendo um trailer e não acompanhando uma história.,matwario@gmail.com,0,,2
+100,4,1,Divertido.,2018-06-01 18:04:09,2018-06-01 18:04:09,3,4,2,"Sim. As falhas foram muito perceptíveis. Se fosse um dia normal de trabalho, isso teria me incomodado mais.",anamaria@dcc.ufrj.br,0,,2
+101,5,2,"Os problemas de qualidade do primeiro inviabilizaram uma conexão, já que eram várias coisas diferentes.",2018-06-01 18:07:47,2018-06-01 18:07:47,5,1,3,"Os problemas de qualidade do primeiro inviabilizaram uma conexão, já que eram várias coisas diferentes.",anamaria@dcc.ufrj.br,0,,2
+102,6,2,"porque mesmo com as interrupções, achei mais vibrante",2018-06-01 18:45:15,2018-06-01 18:45:15,3,3,5,"as falhas foram perceptíveis, mas mesmo assim gostei mais do segundo porque me deixou mais atento",sadoc@dcc.ufrj.br,0,,2
+103,2,1,é muito mais divertido,2018-06-01 18:48:36,2018-06-01 18:48:36,4,4,1,,sadoc@dcc.ufrj.br,0,,2
+104,5,2,porque teve menos interrupções,2018-06-01 18:51:08,2018-06-01 18:51:08,3,4,4,,sadoc@dcc.ufrj.br,0,,2
+105,6,1,Mostra mais detalhes,2018-06-01 20:38:32,2018-06-01 20:38:32,4,3,2,,rookejf@gmail.com,0,,2
+106,6,2,Devido ao replay com maior proximidade.,2018-06-02 15:06:07,2018-06-02 15:06:07,4,3,5,A falha do segundo vídeo foi perceptível. O único motivo de ter preferido foi devido ao replay com maior proximidade e qualidade. Porém o início do vídeo foi estressante devido à interrupção e queda de qualidade.,mareas@gmail.com,0,,2
+107,7,1,Gostei do tema.,2018-06-02 15:22:59,2018-06-02 15:22:59,3,4,1,,yagoasl@hotmail.com,0,,2
+108,4,2,Porque não ocorreu palsas durante o vídeo.,2018-06-02 15:26:04,2018-06-02 15:26:04,5,3,2,,yagoasl@hotmail.com,0,,2
+109,6,1,"Sem palsas, boa qualidade e assunto interessante.",2018-06-02 15:29:41,2018-06-02 15:29:41,3,5,3,,yagoasl@hotmail.com,0,,2
+110,6,2,due to its content,2018-06-03 6:36:38,2018-06-03 6:36:38,1,0,3,,sermpezis@ics.forth.gr,0,,2
+111,6,2,Pelo suspense,2018-06-03 22:14:19,2018-06-03 22:14:19,4,5,5,,m.goulart.teixeira@gmail.com,0,,2
+112,7,1,O conteudo e mais interessante,2018-06-03 22:16:03,2018-06-03 22:16:03,4,5,2,,m.goulart.teixeira@gmail.com,0,,2
+113,3,2,Por ser de um filme,2018-06-03 22:18:09,2018-06-03 22:18:09,4,1,3,,m.goulart.teixeira@gmail.com,0,,2
+114,6,1,pelo tema,2018-06-04 0:44:53,2018-06-04 0:44:53,3,4,1,"Foram perceptíveis, mas não impediram de acompanhar o conteúdo",mluiza.campos@gmail.com,0,,2
+115,3,1,Não tenho interesse nos filmes Piratas do Caribe.,2018-06-04 1:22:35,2018-06-04 1:22:35,4,3,2,"É aceitável a redução de qualidade momentânea quando a rede está com problemas temporários, porém a interrupção, é um transtorno muito maior.",lucas44r@gmail.com,0,,2
+116,6,1,Sem interrupções,2018-06-04 1:25:54,2018-06-04 1:25:54,4,5,5,"A mudança de qualidade no segundo vídeo não foi suave e gerou interrupção da transmissão, ou seja, prejudicou a qualidade. Houve entretenimento em ambos os vídeos.",lucas44r@gmail.com,0,,2
+117,4,2,Sem interrupções,2018-06-04 1:28:14,2018-06-04 1:28:14,5,3,5,,lucas44r@gmail.com,0,,2
+118,7,2,"menos sensacionalista, indo direto ao ponto",2018-06-04 2:43:10,2018-06-04 2:43:10,4,3,4,"foram bastante perceptíveis, mas como eu estou no momento com uso intenso da rede, na primeira não tive certeza que era parte do experimento. O tempo dos vídeos foi ok para o proposto. Entretenimento ligeiro, talvez usando algum video com piadas ou com ganchos para a proxima cena, o nivel de estresse pela falha de qualidade fosse mais alto.",dlima@cos.ufrj.br,0,,2
+119,5,2,melhor qualidade e assunto do agrado.,2018-06-04 2:45:07,2018-06-04 2:45:07,4,3,5,,dlima@cos.ufrj.br,0,,2
+120,1,2,momentos mais felizes a se lembrar rs,2018-06-04 2:47:13,2018-06-04 2:47:13,5,1,1,era esse o tipo de gancho q falava! travar bem na hora do passe é sacanagem!,dlima@cos.ufrj.br,0,,2
+121,7,1,Pelo tema e apresentação,2018-06-04 12:18:19,2018-06-04 12:18:19,5,4,1,As falhas do primeiro vídeo foram claramente perceptíveis,matheus.mrfm@gmail.com,0,,2
+122,1,1,Pela qualidade e pelos escritos na tela serem legíveis (o que não ocorre no segundo vídeo),2018-06-04 12:20:23,2018-06-04 12:20:23,5,1,1,,matheus.mrfm@gmail.com,0,,2
+123,5,1,Pelo conteúdo,2018-06-04 12:22:24,2018-06-04 12:22:24,4,3,2,Não tão perceptível quanto nos outros vídeos,matheus.mrfm@gmail.com,0,,2
+124,1,2,Nacionalismo,2018-06-04 16:36:38,2018-06-04 16:36:38,5,1,2,,bruno.meirelles.sousa@gmail.com,0,,2
+125,6,2,Foi impressionante e imprevisível,2018-06-04 16:38:42,2018-06-04 16:38:42,5,2,4,,bruno.meirelles.sousa@gmail.com,0,,2
+126,6,1,"Melhor qualidade, assunto interessante, sem violência.",2018-06-04 16:38:44,2018-06-04 16:38:44,5,4,1,"Foram perceptíveis, tempo ideal, houve.",thomasbsjf@gmail.com,0,,2
+127,4,2,Não preferi,2018-06-04 16:39:04,2018-06-04 16:39:04,5,1,3,"Do vídeo 1 ficou fazendo buffering, acho que o do recorde do corredor foi bom, quase fechei vendo o do panda.",huggy_jf@hotmail.com,0,,2
+128,5,1,os movimentos eram mais interessantes,2018-06-04 16:39:56,2018-06-04 16:39:56,5,5,2,"Foram bastante perceptíveis, mesmo os vídeos sendo curtos a espera era significativa. Os vídeos eram divertidos.",viniciusalves@ice.ufjf.br,0,,2
+129,7,1,Assunto,2018-06-04 16:40:36,2018-06-04 16:40:36,5,4,3,,thomasbsjf@gmail.com,0,,2
+130,3,2,,2018-06-04 16:41:02,2018-06-04 16:41:02,5,5,2,,marcolino_henrique@hotmail.com,0,,2
+131,3,1,Segundo tava travando muito,2018-06-04 16:41:05,2018-06-04 16:41:05,5,1,4,,bruno.meirelles.sousa@gmail.com,0,,2
+132,7,1,"pq o segundo é muito chato, na verdade o questionário num todo é bem cansativo",2018-06-04 16:41:51,2018-06-04 16:41:51,5,4,0,,viniciusalves@ice.ufjf.br,0,,2
+133,2,2,Pareceu mais interessante,2018-06-04 16:42:13,2018-06-04 16:42:13,4,3,3,,thomasbsjf@gmail.com,0,,2
+134,2,2,Pareceu mais interessante,2018-06-04 16:42:13,2018-06-04 16:42:13,4,3,3,,thomasbsjf@gmail.com,0,,2
+135,1,1,,2018-06-04 16:42:48,2018-06-04 16:42:48,5,5,5,,marcolino_henrique@hotmail.com,0,,2
+136,7,1,"As imagens, a dramatização!! Muito bonita as cenas e tals.",2018-06-04 16:45:27,2018-06-04 16:45:27,5,4,0,,marcolino_henrique@hotmail.com,0,,2
+137,2,1,O humor exagerado,2018-06-04 17:13:23,2018-06-04 17:13:23,5,5,5,As falhas foram bastante perceptivas porém houve entretenimento durante a sessão.,tnoboatrindade@gmail.com,0,,2
+138,4,2,Tem um visual mais bontio,2018-06-04 17:15:19,2018-06-04 17:15:19,5,0,3,,tnoboatrindade@gmail.com,0,,2
+139,3,2,Achei mais interessante,2018-06-04 17:17:52,2018-06-04 17:17:52,5,1,5,,tnoboatrindade@gmail.com,0,,2
+140,3,2,Gosto pessoal.,2018-06-04 17:24:16,2018-06-04 17:24:16,2,0,2,Somente identifiquei falhas no segundo vídeo. Não houve entretenimento.,amohistria@gmail.com,0,,2
+141,6,1,Achei o tópico mais interessante. Não percebi falhas como no segundo.,2018-06-04 17:26:28,2018-06-04 17:26:28,2,3,2,,amohistria@gmail.com,0,,2
+142,7,1,Conteúdo e produção.,2018-06-04 17:46:56,2018-06-04 17:46:56,4,4,2,"As falhas foram muito perceptiveis. No tempo dos videos o incomodo foi pequeno, mas se fosse para assistir o documentário inteiro seria insuportavel, e deixaria para ve-lo depois.",accardoso@ice.ufjf.br,0,,2
+143,1,2,Ser mais popular no Brasil,2018-06-04 17:48:59,2018-06-04 17:48:59,4,3,3,"Muito perceptíveis, incomodou. Sem entretenimento.",pauloalceu@gmail.com,0,,2
+144,4,2,Imagem nítida e sem interrupções.,2018-06-04 17:49:10,2018-06-04 17:49:10,5,3,3,No primeiro vídeo houveram duas interrupções. Isso incomoda.,anaclaudia@ice.ufjf.br,0,,2
+145,6,2,Animais,2018-06-04 17:51:16,2018-06-04 17:51:16,4,5,5,Incomodou e caiu a qualidade do vídeo.,pauloalceu@gmail.com,0,,2
+146,5,2,Não teve interrupções.,2018-06-04 17:52:11,2018-06-04 17:52:11,4,0,0,"Normalmente quando tenho opção pioro a qualidade dos vídeos para não ter interrupções, é raro que a qualidade me incomode. Mas no caso tive dois vídeos com conteúdo igualmente não interessante e o com pior qualidade ainda tem interrupções é muito chato. Só vi o vídeo 1 até o fim pq é uma pesquisa, já o 2 se não tivesse em uma sala de espera de médico daria para ficar olhando, mas em casa iria ler um livro.",accardoso@ice.ufjf.br,0,,2
+147,4,2,Mais belo e não travou.,2018-06-04 17:53:26,2018-06-04 17:53:26,5,1,5,,pauloalceu@gmail.com,0,,2
+148,4,1,"Foi engraçado, enquanto o outro dava sono.",2018-06-04 17:55:47,2018-06-04 17:55:47,2,1,0,"Nem percebi que o video 1 era de pior qualidade, e como era curto e de um assunto banal, aqueles que só assiste para matar alguns segundos do tempo, as interrupções foram aceitáveis.",accardoso@ice.ufjf.br,0,,2
+149,4,1,O segundo vídeo é muito monótono.,2018-06-04 18:10:45,2018-06-04 18:10:45,4,4,4,"As falhas foram suportáveis pois o vídeo é muito interessante. As mesmas falhas, se tivessem ocorrido no video 2, teriam sido insuportáveis.",lbrugiolo@ice.ufjf.br,0,,2
+150,7,1,"O segundo vídeo parece interessante, mas o primeiro é mais elaborado.",2018-06-04 18:14:20,2018-06-04 18:14:20,5,4,4,"A medida que assisto os vídeos com falhas, a minha paciência está cada vez menor!",lbrugiolo@ice.ufjf.br,0,,2
+151,2,1,Não gostei do conteúdo do segundo vídeo.,2018-06-04 18:17:27,2018-06-04 18:17:27,5,1,1,O vídeo é muito curto para tantas falhas. Não houve entretenimento.,lbrugiolo@ice.ufjf.br,0,,2
+152,5,2,slack,2018-06-04 18:22:03,2018-06-04 18:22:03,5,5,5,"As falhas foram muito perceptíveis, corta o vídeo no meio da execução de um movimento. Este é um tipo vídeo onde cada segundo é importante. Um segundo que se perde já estraga completamente a experiência de uso.",naoquero@informar.com.br,0,,2
+153,3,2,É um conteúdo no qual tenho mais empatia.,2018-06-04 18:27:04,2018-06-04 18:27:04,2,1,4,,victorh1705@gmail.com,0,,2
+154,5,1,"Por conter uma variedade maior de esportes. Os esportes também parecem terem melhores profissionais, que os praticam.",2018-06-04 18:30:10,2018-06-04 18:30:10,1,4,1,,victorh1705@gmail.com,0,,2
+155,1,1,É melhor assistir nada do que um vídeo com buffering. 2003 ligou e pediu o vídeo deles de volta.,2018-06-04 18:49:54,2018-06-04 18:49:54,4,2,4,,no@no.com,0,,2
+156,5,2,É impossível gostar de um vídeo que trava no meio da execução.,2018-06-04 18:52:34,2018-06-04 18:52:34,5,3,3,,no@no.com,0,,2
+157,5,2,É impossível gostar de um vídeo que trava no meio da execução.,2018-06-04 18:52:34,2018-06-04 18:52:34,5,3,3,,no@no.com,0,,2
+158,7,1,"Os trecho do vídeo 1 é preferível ao do vídeo 2, mas eu não continuaria assistindo o documentário até o fim com as falhas de reprodução apresentadas.",2018-06-04 18:55:14,2018-06-04 18:55:14,3,3,1,,no@no.com,0,,2
+159,1,2,Pq é uma lembrança bem melhor que a do primeiro vídeo,2018-06-04 19:17:18,2018-06-04 19:17:18,3,0,3,As falhas de qualidade e de carregamento do vídeo foram muito perceptíveis. O tempo de duração não atrapallhou meu julgamento.,gmmoura@ice.ufjf.br,0,,2
+160,7,1,"Assunto mais interessante, produção melhor. O segundo não tinha apelo visual nem a voz do narrador contribuiram para tornar o vídeo interessane.",2018-06-04 19:20:58,2018-06-04 19:20:58,4,4,0,Falhas de qualidade totalmente perceptíveis.,gmmoura@ice.ufjf.br,0,,2
+161,4,1,"Porque é divertido ver os pandas brincando. Ver peixes nadando, sem nenhuma outra informação não tem apelo para chamar minha atenção.",2018-06-04 19:24:25,2018-06-04 19:24:25,3,4,2,Falhas totalmente perceptíveis,gmmoura@ice.ufjf.br,0,,2
+162,4,1,Porque no segundo não tinha nada acontecendo,2018-06-04 19:25:51,2018-06-04 19:25:51,4,2,0,"Sim, foram vários segundo de espera. O tempo foi suficiente.",anon@sasuga.link,0,,2
+163,6,2,Porque é mais interessante,2018-06-04 19:28:50,2018-06-04 19:28:50,3,2,4,A interrupção incomodou menos porque eu estava interessado no conteúdo do vídeo.,anon@sasuga.link,0,,2
+164,1,2,"Porque tem maior quantidade e qualidade de jogo, foi mais centrado em uma única ação, enquanto o primeiro foi simplesmente uma mostra aleatória de gols.",2018-06-04 21:33:57,2018-06-04 21:33:57,1,0,0,"As falhas de qualidade foram mais perceptíveis no segundo grupo de vídeos do que no primeiro, os quais eu só percebi a falha inicial. O tempo dos vídeos foi curto, posto de forma descontextualizada, mas forneceram um pouco de entretenimento.",leogdlp@gmail.com,0,,2
+165,1,1,Sem engasgos,2018-06-04 21:39:50,2018-06-04 21:39:50,4,2,2,"O video 01, além de não ter engasgos parecia ter uma qualidade melhor. O video 2 tudo era pior. Não houve entretenimento, pois não gosto de futebol. Teria ficado mais irritado com a qualidade ruim do video 2 se fosse um anime ou um seriado que gostasse.
+
+Não reparei no tempo do vídeo",bernardo.bt@gmail.com,0,,2
+166,4,1,Vídeo de peixe como o apresentado é bem entediante,2018-06-04 21:44:00,2018-06-04 21:44:00,3,3,0,"Novamente não reparei o tempo do video. O Vídeo da panda é mais legal, mas as interrupções são irritantes. A qualidade do vídeo do peixe parecia muito melhor.",bernardo.bt@gmail.com,0,,2
+167,7,1,Buracos negros são legais,2018-06-04 21:47:44,2018-06-04 21:47:44,4,4,3,"Foram perceptíveis as falhas, independente do tempo. Para ter algum entretenimento o vídeo deveria ter mais tempo.",bernardo.bt@gmail.com,0,,2
+168,1,1,Não houve falhas ao carregar,2018-06-04 21:52:36,2018-06-04 21:52:36,4,2,4,,dalimarques29@yahoo.com.br,0,,2
+169,6,2,Estritamente pelo tema e não pela qualidade,2018-06-04 22:03:00,2018-06-04 22:03:00,4,4,5,"Sim, as falhas foram bem evidentes. O tempo dos vídeos foi suficiente para julgar. Sim, houve entretenimento.",zezinho@sem.mail.com,0,,2
+170,1,1,Qualidade do vídeo é melhor além de relembrar um momento memorável,2018-06-04 22:05:20,2018-06-04 22:05:20,5,0,0,"Sim, não, não.",zezinho@sem.mail.com,0,,2
+171,1,1,Pela qualidade da imagem,2018-06-04 22:36:28,2018-06-04 22:36:28,3,2,2,"As falhas foram perceptíveis, porém a falha do vídeo parando para carregar geralmente é menos incômoda que a redução de qualidade, pois, em uma situação normal, permitiria que alguém parasse para esperar o vídeo terminar de carregar.
+Em vídeos maiores isso seria mais incômodo, e ainda assim foi possível assistir perfeitamente ambos os vídeos.",brunomarcosps@hotmail.com,0,,2
+172,7,1,Pelo tema,2018-06-04 22:38:48,2018-06-04 22:38:48,3,4,3,,brunomarcosps@hotmail.com,0,,2
+173,6,1,Pela estabilidade da qualidade (mesmo não sendo muito boa se manteve por todo o vídeo),2018-06-04 22:41:03,2018-06-04 22:41:03,3,4,4,,brunomarcosps@hotmail.com,0,,2
+174,4,1,Por ser engraçado e fofo,2018-06-04 23:15:55,2018-06-04 23:15:55,2,3,1,,ana.mendes@ice.ufjf.br,0,,2
+175,7,1,Devido a produção e pelo conteúdo em si,2018-06-04 23:18:14,2018-06-04 23:18:14,2,4,3,,ana.mendes@ice.ufjf.br,0,,2
+176,6,1,,2018-06-04 23:20:06,2018-06-04 23:20:06,3,4,2,,ana.mendes@ice.ufjf.br,0,,2
+177,1,1,Sem interrupções,2018-06-05 0:48:48,2018-06-05 0:48:48,2,0,0,Sim. Um pouco. Não,rodridofire@hotmail.com,0,,2
+178,2,2,parecia ter uma sequencia.,2018-06-05 2:03:41,2018-06-05 2:03:41,5,3,5,"os 2 primeiros videos tinham falhas muito perceptíveis que prejudicavam o entendimento deles.
+parece que o 2o video, da 2a sessão foi interrompido no final propositalmente",alex.borges@gmail.com,0,,2
+179,4,1,Parecia ter uma sequencia engraçada,2018-06-05 2:08:29,2018-06-05 2:08:29,5,4,2,"percebi muitas falhas no 1o vídeo (3 ou mais)
+não percebi falhas no 2o video",alex.borges@gmail.com,0,,2
+180,1,1,deu para assistir a sequencia completa,2018-06-05 2:10:27,2018-06-05 2:10:27,5,5,5,as falhas interromperam o entendimento do 2o video,alex.borges@gmail.com,0,,2
+181,1,1,Foi mais marcante,2018-06-05 11:16:32,2018-06-05 11:16:32,4,4,3,,linhareslfl@gmail.com,0,,2
+182,5,1,,2018-06-05 12:32:14,2018-06-05 12:32:14,4,4,0,sim as falhas foram muito perceptiveis,marcosaureliojf@hotmail.com,0,,2
+183,2,2,,2018-06-05 12:34:20,2018-06-05 12:34:20,4,5,5,As falhas de qualidade foram muito perceptíveis,marcosaureliojf@hotmail.com,0,,2
+184,7,2,,2018-06-05 12:36:31,2018-06-05 12:36:31,5,3,4,As falhas de qualidade foram muito perceptíveis,marcosaureliojf@hotmail.com,0,,2
+185,1,2,Brasil ganhou.,2018-06-05 12:53:39,2018-06-05 12:53:39,4,2,4,"As falhas de qualidade foram muito perceptíveis? SIM
+O tempo dos vídeos foi muito curto para julgá-los? UM POUCO
+Houve entretenimento durante a sessão? SIM",fabriciorsf@gmail.com,0,,2
+186,4,2,Fluidez do vídeo (sem piadas).,2018-06-05 13:02:51,2018-06-05 13:02:51,4,1,1,"A falha do vídeo dos pandas ficaria mais natural se, em vez de tela preta, fosse usada com a tela travada e/ou desfocada. Uma opção seria alternar a resolução simulando uma banda oscilante (720p ~ 360p ~ 480p ...). O tempo foi ok.",julio.arvellos@yahoo.com.br,0,,2
+187,1,1,Fluidez nos trechos apresentados.,2018-06-05 13:05:50,2018-06-05 13:05:50,4,2,2,Mesmo comentário sobre o vídeo dos pandas.,julio.arvellos@yahoo.com.br,0,,2
+188,7,1,Dinâmica na apresentação do conteúdo e formato em que foi apresentado.,2018-06-05 13:09:50,2018-06-05 13:09:50,2,4,3,Mesmo comentário do vídeo dos pandas. Houve entretenimento.,julio.arvellos@yahoo.com.br,0,,2
+189,3,2,Mais legal,2018-06-05 13:30:09,2018-06-05 13:30:09,4,3,4,,schettino.viniciusjunqueira@gmail.com,0,,2
+190,4,1,vídeo mais movimentado,2018-06-05 13:39:42,2018-06-05 13:39:42,4,4,3,"As falhas são totalmente perceptíveis, houve entretenimento, mas se tivesse opção de parar o vídeo, teria saído na primeira falha",flavia.horta@ufjf.edu.br,0,,2
+191,7,1,mais dinâmico,2018-06-05 13:41:43,2018-06-05 13:41:43,4,3,3,,flavia.horta@ufjf.edu.br,0,,2
+192,5,1,mais dinâmico,2018-06-05 13:43:43,2018-06-05 13:43:43,2,4,4,,flavia.horta@ufjf.edu.br,0,,2
+193,1,1,"Sou Brasil em primeiro lugar. Estou julgando a qualidade do vídeo: o segundo tem duas interrupções notavelmente inseridas ad hoc. Logo, fico com o primeiro.",2018-06-05 14:09:39,2018-06-05 14:09:39,4,0,0,"Vivi muitos anos no interior do Amazonas e me acostumei com falhas deste tipo, seja em vídeos ou em navegação em geral na internet. Mas elas ainda me incomodam, principalmente em momentos decisivos, como no jogo apresentado.",brunorizzuti@ice.ufjf.br,0,,2
+194,5,1,Diversidade de esportes e mais cenas.,2018-06-05 14:12:15,2018-06-05 14:12:15,5,4,4,"Falhas muito perceptíveis, em momentos críticos. Chega ao ponto de parar de curtir o vídeo.",brunorizzuti@ice.ufjf.br,0,,2
+195,7,2,"Sou físico. Logo, meu voto não é idôneo. Todos os assuntos são interessantes!",2018-06-05 14:14:57,2018-06-05 14:14:57,5,5,5,"Como já mencionado anteriormente, tenho as mesmas reclamações sobre interrupções!",brunorizzuti@ice.ufjf.br,0,,2
+196,5,2,,2018-06-05 14:50:48,2018-06-05 14:50:48,1,4,1,,sermpezis@ics.forth.gr,0,,2
+197,5,1,Imagens mais legais. Diferentes paisagens.,2018-06-05 16:34:09,2018-06-05 16:34:10,3,4,3,No primeiro vídeo sim. Houve duas paradas que quebram a sequência de boas imagens.,luciano@lrc.ic.unicamp.br,0,,2
+198,1,2,Porque o Brasil não está apanhando de 7 a 1.,2018-06-05 16:36:16,2018-06-05 16:36:16,5,0,4,Dá desespero o vídeo parar porque fica naquela expectativa de que vai perder o momento do gol.,luciano@lrc.ic.unicamp.br,0,,2
+199,4,1,Pandas são sempre legais,2018-06-05 19:57:50,2018-06-05 19:57:50,2,4,1,,rafaelmascarenhascosta@gmail.com,0,,2
+200,6,1,O ecossistema das formigas é fantástico!,2018-06-05 20:00:29,2018-06-05 20:00:29,2,3,3,,rafaelmascarenhascosta@gmail.com,0,,2
+201,2,2,o do espoleto eu acho bem chato,2018-06-05 20:02:14,2018-06-05 20:02:14,2,1,2,,rafaelmascarenhascosta@gmail.com,0,,2
+202,7,1,"Além do assunto ser mais interessante, o vídeo com animações e falas das pessoas é menos entediante.",2018-06-06 16:34:45,2018-06-06 16:34:45,5,4,2,"São péssimas essas falhas. Eu consegui entender o vídeo, mas é muito chato as interrupções.",igorsfra@gmail.com,0,,2
+203,5,2,"Apesar o vídeo 2 não ser tão legal quanto o vídeo 1, a qualidade dele é melhor. Eu consegui me divertir assistindo ele, enquanto que no vídeo 1 eu mais me estressei do que me diverti.",2018-06-06 16:38:20,2018-06-06 16:38:20,5,5,3,Terrível as falhas.,igorsfra@gmail.com,0,,2
+204,2,1,Mais engraçado. Eu ri pra caramba kkkkk,2018-06-06 16:40:49,2018-06-06 16:40:49,5,5,4,Horrível.,igorsfra@gmail.com,0,,2
+205,3,2,Trailers em geral são mais interessantes,2018-06-06 19:43:20,2018-06-06 19:43:20,4,0,5,,victor_tor@yahoo.com.br,0,,2
+206,6,1,Achei mais interessante,2018-06-06 19:45:20,2018-06-06 19:45:20,4,5,3,,victor_tor@yahoo.com.br,0,,2
+207,5,1,As cenas eram mais emocionantes,2018-06-06 19:49:23,2018-06-06 19:49:23,4,4,1,,victor_tor@yahoo.com.br,0,,2
+208,6,1,"O comportamento, a maioria dos humanos pensa que caos e ordem são coisas distintas, curioso não acha?",2018-06-06 21:55:28,2018-06-06 21:55:28,0,0,0,"Isso depende muito de quem assiste, na minha opinião foi perceptível normal, a duração do vídeo está boa, não houve entretenimento para mim.",rraulbs@poli.ufrj.br,0,,2
+209,7,1,"Por que é algo que não compreendo muito bem, diferentemente do vídeo 2.",2018-06-06 21:59:49,2018-06-06 21:59:49,2,3,0,"pouco perceptível, boa duração, não.",rraulbs@poli.ufrj.br,0,,2
+210,3,2,"Gosto de histórias, mas não de cerveja.",2018-06-06 22:03:03,2018-06-06 22:03:03,2,0,3,"sim,não,não porque já vi esse filme.",rraulbs@poli.ufrj.br,0,,2
+211,3,2,quase indiferente. preferi o trailer por ser meio avesso a propaganda.,2018-06-07 13:43:44,2018-06-07 13:43:44,2,2,2,,joaoismaelpinheiro@gmail.com,0,,2
+212,3,2,quase indiferente. preferi o trailer por ser meio avesso a propaganda.,2018-06-07 13:44:28,2018-06-07 13:44:28,2,2,2,,joaoismaelpinheiro@gmail.com,0,,2
+213,4,2,,2018-06-07 13:49:30,2018-06-07 13:49:30,3,1,5,cu rto mais peixes do que pandas.,joaoismaelpinheiro@gmail.com,0,,2
+214,4,1,Ação,2018-06-11 1:28:09,2018-06-11 1:28:09,5,3,1,,saulomv@gmail.com,0,,2
+215,5,1,Tipo de esporte,2018-06-11 1:29:52,2018-06-11 1:29:52,5,4,3,,saulomv@gmail.com,0,,2
+216,7,1,Menos sacal,2018-06-11 1:31:30,2018-06-11 1:31:30,5,2,0,,saulomv@gmail.com,0,,2
+224,5,1,Maior interesse pelos temas,2018-06-18 20:15:56,2018-06-18 20:15:56,3,3,2,As falhas foram perceptíveis. Durante a falha executei outras tarefas.,priscila.capriles@ufjf.edu.br,0,,2
+225,1,1,Menos falhas,2018-06-18 20:18:50,2018-06-18 20:18:50,3,2,2,,priscila.capriles@ufjf.edu.br,0,,2
+229,5,1,"Achei o tema mais interessante, além de não haver falhas de qualidade",2018-07-10 12:56:54,2018-07-10 12:56:54,3,5,3,"as falhas foram muito perceptíveis e muito frequentes para um vídeo tão curto, não sendo possível aproveitar o vídeo",,0,5ycdk6c8x6p27q2t8ptu1n8b2yuqwo5a,2
+230,6,2,Porque há possibilidade de assistí-lo sem cortes na exibição,2018-07-10 12:58:01,2018-07-10 12:58:01,5,5,3,"Sim as falhas de qualidade são perceptíveis. Não, para dar resposta ao questionário o tempo foi suficiente para julgá-los. Sim, o entretenimento pode ser garantido, mas com estresse.",erickbarros311@yahoo.com.br,0,9k8c285zhy9p62g19er0mh5hh9dnwc3b,2
+231,1,2,gols do brasil,2018-07-10 12:58:36,2018-07-10 12:58:36,5,3,5,foram muito perceptíveis. Em vídeos de esporte a dinâmica tem que ser contínua.,,0,0s4kixnoej44s31ng9ob2m22hfjfe4o0,2
+232,6,2,"O vídeo teve conteúdo, diferentemente do primeiro que só foi feita uma ""propaganda"" do que mostraria no programa além de ter falhas de qualidade",2018-07-10 12:59:50,2018-07-10 12:59:50,3,4,3,"Seria mais interessante ter comparado vídeos com um nível de entreterimento mais parecido, eu acho",,0,5ycdk6c8x6p27q2t8ptu1n8b2yuqwo5a,2
+233,3,2,Devido sua alta qualidade.,2018-07-10 13:00:16,2018-07-10 13:00:16,5,1,5,,erickbarros311@yahoo.com.br,0,9k8c285zhy9p62g19er0mh5hh9dnwc3b,2
+234,2,2,mais engraçado,2018-07-10 13:01:28,2018-07-10 13:01:28,5,4,4,Sim. Vídeos de comédias exigem continuidade.,,0,0s4kixnoej44s31ng9ob2m22hfjfe4o0,2
+235,7,2,"A qualidade do vídeo é irrelevante em um vídeo de música, por isso é melhor que o vídeo tenha uma imagem ruim do que fique travando como o primeiro vídeo",2018-07-10 13:01:50,2018-07-10 13:01:50,4,4,4,,,0,5ycdk6c8x6p27q2t8ptu1n8b2yuqwo5a,2
+236,1,2,Porque ganhamos a copa nesse dia.,2018-07-10 13:02:05,2018-07-10 13:02:05,5,1,5,,erickbarros311@yahoo.com.br,0,9k8c285zhy9p62g19er0mh5hh9dnwc3b,2
+237,5,1,mais interessante e sem falhas,2018-07-10 13:02:52,2018-07-10 13:02:52,5,5,5,,,0,0s4kixnoej44s31ng9ob2m22hfjfe4o0,2
+238,1,1,As falhas me deixam desconfortável,2018-07-10 13:06:47,2018-07-10 13:06:47,5,3,4,Muito perceptíveis O tempo foi suficiente Não,ivaluques@hotmail.com,0,3c4bimwxh8wwj4q50p8kghoak51edgk6,2
+239,3,2,Falhas irritam demais,2018-07-10 13:09:16,2018-07-10 13:09:16,4,2,0,"Perceptíveis demais
+Tempo suficiente para julgá-los
+Não houve entretenimento",ivaluques@hotmail.com,0,3c4bimwxh8wwj4q50p8kghoak51edgk6,2
+240,4,2,Não tem falhas,2018-07-10 13:11:23,2018-07-10 13:11:23,4,2,1,"Falhas perceptíveis
+Tempo suficiente para o julgamento
+Não houve entretenimento",ivaluques@hotmail.com,0,3c4bimwxh8wwj4q50p8kghoak51edgk6,2
+241,3,1,pq gosto de pandas,2018-07-10 13:12:45,2018-07-10 13:12:45,5,5,1,,alinnezanin@gmail.com,0,tsrkblba66clr17fcesd2lmm2w9iroao,2
+242,6,1,"O vídeo em si é mais atrativo do que o estilo ""slides"" do segundo",2018-07-10 13:18:29,2018-07-10 13:18:29,5,1,1,"No primeiro experimento (Usain Bolt), não fica claro se as pausas para carregamento são propositais ou não.",,0,rdajg328lxq2bqq6k96y88g24vrwyfjq,2
+243,3,2,As pausas para carregamento no primeiro vídeo incomodam muito.,2018-07-10 13:20:38,2018-07-10 13:20:38,3,3,2,,,0,rdajg328lxq2bqq6k96y88g24vrwyfjq,2
+244,4,1,"O vídeo em si é mais interessante, mesmo com as falhas",2018-07-10 13:22:11,2018-07-10 13:22:11,3,3,1,,,0,rdajg328lxq2bqq6k96y88g24vrwyfjq,2
+245,7,2,"Imagem na penumbra, música mais silenciosa",2018-07-10 13:52:12,2018-07-10 13:52:12,4,2,5,,andrea.weber.latw2006@gmail.com,0,j31s96clcutyop7lnd4vvda08dn3ry9x,2
+246,6,1,Pelo tema,2018-07-10 13:54:08,2018-07-10 13:54:08,3,5,3,,andrea.weber.latw2006@gmail.com,0,j31s96clcutyop7lnd4vvda08dn3ry9x,2
+247,1,2,Porque nele o Brasil está ganhando,2018-07-10 13:56:21,2018-07-10 13:56:21,3,2,4,,andrea.weber.latw2006@gmail.com,0,j31s96clcutyop7lnd4vvda08dn3ry9x,2
+248,2,1,A estória pareceu-me mais divertida.,2018-07-10 14:05:21,2018-07-10 14:05:21,2,4,2,,,0,qipxk2tgnfg94tesuyk8kyymvcgyeapm,2
+249,7,2,Porque não houve interrupção,2018-07-10 14:37:16,2018-07-10 14:37:16,5,5,5,"Como o vídeo era de música, uma coisa contínua... as interrupções são muito piores que a qualidade em si da imagem",,0,d32nqsaf3ed3tqjwfw32gr3ty3vfu4q4,2
+250,5,2,o conteúdo é mais interessante,2018-07-10 14:38:55,2018-07-10 14:38:55,3,4,4,,,0,d32nqsaf3ed3tqjwfw32gr3ty3vfu4q4,2
+251,2,1,,2018-07-10 14:40:38,2018-07-10 14:40:38,2,1,1,,,0,d32nqsaf3ed3tqjwfw32gr3ty3vfu4q4,2
+252,1,1,Porque a qualidade do video é melhor,2018-07-10 14:46:23,2018-07-10 14:46:23,5,4,4,As falhas de qualidade foram muito perceptíveis,simone@ic.uff.br,0,zuuykpbsqxzf4wt0exc9nhkfjpr6fezl,2
+253,2,1,Muito mais divertido,2018-07-10 14:48:27,2018-07-10 14:48:27,4,4,1,Houve entretenimento mesmo com as falhas,simone@ic.uff.br,0,zuuykpbsqxzf4wt0exc9nhkfjpr6fezl,2
+254,5,2,Me interesso mais por onças,2018-07-10 14:50:26,2018-07-10 14:50:26,3,3,5,,simone@ic.uff.br,0,zuuykpbsqxzf4wt0exc9nhkfjpr6fezl,2
+255,5,2,,2018-07-10 14:54:37,2018-07-10 14:54:37,5,3,4,,,0,i0zl7v80ddo1kuvoovma77kmkpndz62b,2
+256,7,1,,2018-07-10 14:56:14,2018-07-10 14:56:14,5,4,4,,,0,i0zl7v80ddo1kuvoovma77kmkpndz62b,2
+257,2,1,,2018-07-10 14:57:50,2018-07-10 14:57:50,5,3,3,,,0,i0zl7v80ddo1kuvoovma77kmkpndz62b,2
+258,2,1,,2018-07-10 14:58:36,2018-07-10 14:58:36,5,3,3,"Se eu tenho a opção de ""bufferizar"" o vídeo, eu sempre vou preferir o de alta qualidade",,0,i0zl7v80ddo1kuvoovma77kmkpndz62b,2
+259,3,2,Porque o vídeo não parou.,2018-07-10 15:08:35,2018-07-10 15:08:35,5,2,2,,,0,jk4k66d3te7grbavwchajkmh6ddtilsq,2
+260,7,2,"Porque o vídeo não parou, mesmo tendo qualidade de imagem pior.",2018-07-10 15:10:49,2018-07-10 15:10:49,5,3,3,,,0,jk4k66d3te7grbavwchajkmh6ddtilsq,2
+261,4,2,"O primeiro vídeo travava e, no segundo, me senti incomodado com a música e variações do som no lado esquerdo e no direito.",2018-07-10 15:14:10,2018-07-10 15:14:10,5,3,3,,,0,jk4k66d3te7grbavwchajkmh6ddtilsq,2
+262,1,1,Porque não travou em nenhum momento e a qualidade da imagem é melhor,2018-07-10 15:31:36,2018-07-10 15:31:36,4,1,1,,aimeesc@gmail.com,0,np95zqpr2unsuze8owaxryxkhbzm56zv,2
+263,6,1,Mais didático,2018-07-10 15:33:29,2018-07-10 15:33:29,4,2,1,,,0,ed0vr3qwmscbxd1t68iyaloykk98i6od,2
+264,1,2,7x1 foi triste,2018-07-10 15:35:40,2018-07-10 15:35:40,3,4,4,,,0,ed0vr3qwmscbxd1t68iyaloykk98i6od,2
+265,2,2,Achei o primeiro sem graça,2018-07-10 15:38:40,2018-07-10 15:38:40,4,2,2,,,0,ed0vr3qwmscbxd1t68iyaloykk98i6od,2
+266,7,2,Porque não tinha interrupção,2018-07-10 16:05:34,2018-07-10 16:05:34,4,4,4,"Quando a falha inserida no vídeo era relacionada à qualidade de resolução de imagem, não era um problema porque não afetava a música. Apenas quando a falha era uma pausa no vídeo é que a experiência ficava prejudicada.",victorajoliveira@gmail.com,0,up95fr6ahr3ulal02zjj9cd6l1cxhlkc,2
+267,5,1,"Pelo conteúdo. Com ou sem falhas, o conteúdo do segundo vídeo não me interessa.",2018-07-10 16:08:10,2018-07-10 16:08:10,3,5,2,,victorajoliveira@gmail.com,0,up95fr6ahr3ulal02zjj9cd6l1cxhlkc,2
+268,6,1,Pelo conteúdo,2018-07-10 16:10:26,2018-07-10 16:10:26,2,5,4,"O vídeo teve poucas interrupções, então não foi tão difícil acompanhar o conteúdo.",victorajoliveira@gmail.com,0,up95fr6ahr3ulal02zjj9cd6l1cxhlkc,2
+269,6,1,Assunto mais interessante,2018-07-10 17:02:07,2018-07-10 17:02:07,1,4,1,,,0,jo1vzydgrbbxhqle1gjgxkzysjy3ws3o,2
+270,3,1,Queria saber o que iria acontecer,2018-07-10 17:39:28,2018-07-10 17:39:28,3,1,1,,ahvsoares@gmail.com,0,9ibf72fup04fmfhopumcdw0bdl5htgst,2
+271,2,1,Mais engraçado,2018-07-10 17:43:03,2018-07-10 17:43:03,3,4,2,,ahvsoares@gmail.com,0,9ibf72fup04fmfhopumcdw0bdl5htgst,2
+272,1,2,Mais emocionante,2018-07-10 17:45:30,2018-07-10 17:45:30,5,2,5,,ahvsoares@gmail.com,0,9ibf72fup04fmfhopumcdw0bdl5htgst,2
+273,4,2,"O primeiro tinha momentos de carregamento durante a exibição, e qualidade de imagem inferior",2018-07-10 17:54:11,2018-07-10 17:54:11,4,2,2,,igor.ec14@gmail.com,0,2m86u8sn0elvamofo7tdi6v07reteaei,2
+274,5,1,É muito ruim de acompanhar e manter atenção no segundo vídeo devido as interrupções,2018-07-10 17:55:56,2018-07-10 17:55:56,4,3,2,,igor.ec14@gmail.com,0,2m86u8sn0elvamofo7tdi6v07reteaei,2
+275,7,2,"Um vídeo com música clássica, o mais importante é a não interrupção da música, ao invés da qualidade da imagem",2018-07-10 17:57:53,2018-07-10 17:57:53,3,4,4,,igor.ec14@gmail.com,0,2m86u8sn0elvamofo7tdi6v07reteaei,2
+276,6,2,Porque não travou,2018-07-10 22:57:42,2018-07-10 22:57:42,4,4,3,,,0,wci2yy45dsmz53xulo6p11d9jib18o77,2
+277,5,1,Boa qualidade de imagem e não travou,2018-07-10 23:01:27,2018-07-10 23:01:27,4,2,2,,,0,wci2yy45dsmz53xulo6p11d9jib18o77,2
+278,2,2,acho que a falha atrapalhou o  video 1,2018-07-11 15:15:58,2018-07-11 15:15:58,3,2,4,Incomoda falha de video,,0,qz2h516hbidk0yepn9ktkqczxakqsw3u,2
+279,3,1,"Ha um evento no primeiro, no segundo, nada",2018-07-11 15:18:59,2018-07-11 15:18:59,3,4,1,SIm as falhas que simulavam a ampulheta atrapalham ...,,0,qz2h516hbidk0yepn9ktkqczxakqsw3u,2
+280,5,2,nem consigo me lembrar do tema do video 1 . Ah as formigas ....,2018-07-11 15:21:51,2018-07-11 15:21:51,3,2,4,video 1 curto demais,,0,qz2h516hbidk0yepn9ktkqczxakqsw3u,2
+281,5,1,Achei o conteúdo mais interessante,2018-07-12 11:25:20,2018-07-12 11:25:20,3,4,3,"Foram bem perceptíveis, apesar do vídeo ser curto. Primeiramente pensei que seria um problema da minha internet ou da aplicação.",rafaeltavaresandrade@gmail.com,0,3vvtgv50holfl0kwgxb4mte6loc9bj2l,2
+282,2,1,Pelo conteúdo.,2018-07-12 11:27:39,2018-07-12 11:27:39,4,3,3,Não percebi falha no segundo vídeo.,rafaeltavaresandrade@gmail.com,0,3vvtgv50holfl0kwgxb4mte6loc9bj2l,2
+283,1,1,Porque não percebi as falhas,2018-07-12 11:30:17,2018-07-12 11:30:17,4,1,1,"Apesar dos conteúdos não me interessar, fiquei mais incomodado com o que tinha falha",rafaeltavaresandrade@gmail.com,0,3vvtgv50holfl0kwgxb4mte6loc9bj2l,2
+284,1,1,,2018-07-13 4:15:17,2018-07-13 4:15:17,3,3,1,"The stream failures were not so terrible that it prevented enjoying the first, but maybe that's because I like cats a lot. They also seemed to occur in places where it did not severely impact the content.",garvem86@uwosh.edu,1,se4zxo1wos3m7wqfq5vsu4rgmt3ogy2h,2
+285,7,2,"No interruptions, regardless of the slight decrease in quality.",2018-07-13 4:18:51,2018-07-13 4:18:51,5,3,3,"The streaming failures make the first video virtually impossible to enjoy. When the content demands attention at every moment (like music or racing), any gaps ruin the experience. The second video was far more enjoyable despite the slightly lower quality simply because there were no faults.",garvem86@uwosh.edu,1,se4zxo1wos3m7wqfq5vsu4rgmt3ogy2h,2
+286,4,2,No interrupts,2018-07-13 4:21:10,2018-07-13 4:21:10,4,3,1,,garvem86@uwosh.edu,1,se4zxo1wos3m7wqfq5vsu4rgmt3ogy2h,2
+287,4,2,as falhas atrapalham menos a experiência no segundo,2018-07-13 9:07:07,2018-07-13 9:07:07,3,0,0,,,0,2etvnwnx8d6c5nrbwi61pu06rw9dn1sh,2
+288,2,1,porque o segundo era chato,2018-07-13 9:09:00,2018-07-13 9:09:00,4,4,3,,,0,2etvnwnx8d6c5nrbwi61pu06rw9dn1sh,2
+289,7,1,Gostei mais da escolha que fiz.,2018-07-15 0:28:50,2018-07-15 0:28:50,4,5,5,,jctv@cin.ufpe.br,0,jfr2aeclh6d96n9bb61are0zkpo9rxvx,2
+290,1,2,Em português,2018-07-16 2:07:45,2018-07-16 2:07:45,5,1,2,,alinedecampos@gmail.com,0,1h623utxo8c0bma05wfil72f45kkivx6,2
+291,3,2,Sem falhas irritantes.,2018-07-16 2:09:17,2018-07-16 2:09:17,5,4,3,,alinedecampos@gmail.com,0,1h623utxo8c0bma05wfil72f45kkivx6,2
+292,4,2,Tudo melhor.,2018-07-16 2:10:37,2018-07-16 2:10:37,4,2,4,,alinedecampos@gmail.com,0,1h623utxo8c0bma05wfil72f45kkivx6,2
+293,7,2,"Não travou, embora a qualidade fosse menor",2018-07-16 17:29:18,2018-07-16 17:29:18,5,4,4,,,0,b0f98wleqlv33bmmyfdqcyugyb5ee8hr,2
+294,2,2,Não travou,2018-07-16 17:31:03,2018-07-16 17:31:03,5,5,5,,,0,b0f98wleqlv33bmmyfdqcyugyb5ee8hr,2
+295,4,1,Mais interessante,2018-07-16 17:33:20,2018-07-16 17:33:20,4,3,3,,,0,b0f98wleqlv33bmmyfdqcyugyb5ee8hr,2
